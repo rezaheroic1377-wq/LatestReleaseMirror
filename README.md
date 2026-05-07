@@ -165,8 +165,8 @@ sha256sum FILE_NAME
 
 | File | Size | Download |
 |------|------|----------|
-| `Clash.Verge_2.4.7_arm64-setup.exe` | 32.9 MB | [⬇️ Download](https://raw.githubusercontent.com/rezaheroic1377-wq/LatestReleaseMirror/main/releases/clash-verge-rev/clash-verge-rev/Clash.Verge_2.4.7_arm64-setup.exe) |
-| `Clash.Verge_2.4.7_arm64-setup.exe.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/rezaheroic1377-wq/LatestReleaseMirror/main/releases/clash-verge-rev/clash-verge-rev/Clash.Verge_2.4.7_arm64-setup.exe.sig) |
+| `Clash.Verge_2.4.7_x64-setup.exe` | 36.8 MB | [⬇️ Download](https://raw.githubusercontent.com/rezaheroic1377-wq/LatestReleaseMirror/main/releases/clash-verge-rev/clash-verge-rev/Clash.Verge_2.4.7_x64-setup.exe) |
+| `Clash.Verge_2.4.7_x64-setup.exe.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/rezaheroic1377-wq/LatestReleaseMirror/main/releases/clash-verge-rev/clash-verge-rev/Clash.Verge_2.4.7_x64-setup.exe.sig) |
 
 ---
 
