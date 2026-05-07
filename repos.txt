@@ -1,2 +1,3 @@
 therealaleph/MasterHttpRelayVPN-RUST|android-arm64|windows-amd64
-clash-verge-rev/clash-verge-rev|Clash.Verge_2.4.7_arm64-setup.exe
+clash-verge-rev/clash-verge-rev|Clash.Verge_2.4.7_x64-setup.exe
+
