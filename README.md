@@ -157,6 +157,18 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="matsuridayo--nekoray"></div>
+
+### MatsuriDayo--nekoray
+
+🔗 [source](https://github.com/MatsuriDayo/nekoray) – [<code><small>4.0.1</small></code>](https://github.com/MatsuriDayo/nekoray/releases/tag/4.0.1)
+
+| File | Size | Download |
+|------|------|----------|
+| `nekoray-4.0.1-2024-12-12-windows64.zip` | 39.7 MB | [⬇️ Download](https://raw.githubusercontent.com/rezaheroic1377-wq/LatestReleaseMirror/main/releases/MatsuriDayo/nekoray/nekoray-4.0.1-2024-12-12-windows64.zip) |
+
+---
+
 <div id="hiddify--hiddify-app"></div>
 
 ### hiddify--hiddify-app
