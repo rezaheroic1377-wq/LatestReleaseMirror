@@ -1,2 +1,4 @@
 therealaleph/MasterHttpRelayVPN-RUST|android-arm64|windows-amd64
 hiddify/hiddify-app|Windows
+clash-verge-rev/clash-verge-rev|Windows
+MatsuriDayo/nekoray|nekoray-4.0.1-2024-12-12-windows64.zip
