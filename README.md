@@ -157,27 +157,26 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="clash-verge-rev--clash-verge-rev"></div>
-
-### clash-verge-rev--clash-verge-rev
-
-🔗 [source](https://github.com/clash-verge-rev/clash-verge-rev) – [<code><small>v2.4.7</small></code>](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.4.7)
-
-| File | Size | Download |
-|------|------|----------|
-| `Clash.Verge_2.4.7_x64-setup.exe` | 36.8 MB | [⬇️ Download](https://raw.githubusercontent.com/rezaheroic1377-wq/LatestReleaseMirror/main/releases/clash-verge-rev/clash-verge-rev/Clash.Verge_2.4.7_x64-setup.exe) |
-| `Clash.Verge_2.4.7_x64-setup.exe.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/rezaheroic1377-wq/LatestReleaseMirror/main/releases/clash-verge-rev/clash-verge-rev/Clash.Verge_2.4.7_x64-setup.exe.sig) |
-
----
-
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.16</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.16)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.17</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.17)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.16.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/rezaheroic1377-wq/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.16.apk) |
+| `mhrv-rs-android-arm64-v8a-v1.9.17.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/rezaheroic1377-wq/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.17.apk) |
 | `mhrv-rs-windows-amd64.zip` | 7.6 MB | [⬇️ Download](https://raw.githubusercontent.com/rezaheroic1377-wq/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+
+---
+
+<div id="wiresock--proxifyre"></div>
+
+### wiresock--proxifyre
+
+🔗 [source](https://github.com/wiresock/proxifyre) – [<code><small>v2.2.0</small></code>](https://github.com/wiresock/proxifyre/releases/tag/v2.2.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `ProxiFyre-v2.2.0-x64-signed.zip` | 1.3 MB | [⬇️ Download](https://raw.githubusercontent.com/rezaheroic1377-wq/LatestReleaseMirror/main/releases/wiresock/proxifyre/ProxiFyre-v2.2.0-x64-signed.zip) |
 <!-- RELEASES_END -->
