@@ -1,1 +1,2 @@
 therealaleph/MasterHttpRelayVPN-RUST|android-arm64|windows-amd64
+hiddify/hiddify-app|Windows
