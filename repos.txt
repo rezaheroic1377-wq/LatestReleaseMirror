@@ -1,3 +1,3 @@
 therealaleph/MasterHttpRelayVPN-RUST|android-arm64|windows-amd64
-wiresock/proxifyre|ProxiFyre-v2.2.0-x64-signed.zip
+2dust/v2rayNG|v2rayNG_2.1.7_universal.apk
 
