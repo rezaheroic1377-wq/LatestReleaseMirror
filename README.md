@@ -157,26 +157,26 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="2dust--v2rayng"></div>
+
+### 2dust--v2rayNG
+
+🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.1.7</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.1.7)
+
+| File | Size | Download |
+|------|------|----------|
+| `v2rayNG_2.1.7_universal.apk` | 61.8 MB | [⬇️ Download](https://raw.githubusercontent.com/rezaheroic1377-wq/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7_universal.apk) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.17</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.17)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.24</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.24)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.17.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/rezaheroic1377-wq/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.17.apk) |
-| `mhrv-rs-windows-amd64.zip` | 7.6 MB | [⬇️ Download](https://raw.githubusercontent.com/rezaheroic1377-wq/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
-
----
-
-<div id="wiresock--proxifyre"></div>
-
-### wiresock--proxifyre
-
-🔗 [source](https://github.com/wiresock/proxifyre) – [<code><small>v2.2.0</small></code>](https://github.com/wiresock/proxifyre/releases/tag/v2.2.0)
-
-| File | Size | Download |
-|------|------|----------|
-| `ProxiFyre-v2.2.0-x64-signed.zip` | 1.3 MB | [⬇️ Download](https://raw.githubusercontent.com/rezaheroic1377-wq/LatestReleaseMirror/main/releases/wiresock/proxifyre/ProxiFyre-v2.2.0-x64-signed.zip) |
+| `mhrv-rs-android-arm64-v8a-v1.9.24.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/rezaheroic1377-wq/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.24.apk) |
+| `mhrv-rs-windows-amd64.zip` | 7.5 MB | [⬇️ Download](https://raw.githubusercontent.com/rezaheroic1377-wq/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
