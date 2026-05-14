@@ -167,4 +167,16 @@ sha256sum FILE_NAME
 |------|------|----------|
 | `mhrv-rs-android-arm64-v8a-v1.9.25.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/rezaheroic1377-wq/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.25.apk) |
 | `mhrv-rs-windows-amd64.zip` | 7.5 MB | [⬇️ Download](https://raw.githubusercontent.com/rezaheroic1377-wq/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+
+---
+
+<div id="throneproj--throne"></div>
+
+### throneproj--Throne
+
+🔗 [source](https://github.com/throneproj/Throne) – [<code><small>1.1.2</small></code>](https://github.com/throneproj/Throne/releases/tag/1.1.2)
+
+| File | Size | Download |
+|------|------|----------|
+| `Throne-1.1.2-windows64.zip` | 43.9 MB | [⬇️ Download](https://raw.githubusercontent.com/rezaheroic1377-wq/LatestReleaseMirror/main/releases/throneproj/Throne/Throne-1.1.2-windows64.zip) |
 <!-- RELEASES_END -->
