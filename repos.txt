@@ -1,3 +1,4 @@
 therealaleph/MasterHttpRelayVPN-RUST|android-arm64|windows-amd64
-2dust/v2rayNG|v2rayNG_2.1.7_universal.apk
+2dust/v2rayN|v2rayN-windows-64.zip|v2rayN-windows-64-desktop.zip
+
 
